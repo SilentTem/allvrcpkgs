@@ -33,7 +33,21 @@
         "Sayamame-Beans/KiseteNe-for-MA",
         "poiyomi/PoiyomiToonShader",
         "hfcRed/Animation-Repathing",
-        "VRCFury/VRCFury"
+        "VRCFury/VRCFury",
+        "Narazaka/BoneSelector",
+        "Narazaka/BoneSelectTool",
+        "Narazaka/PhysBoneSelector",
+        "Narazaka/UnusedBonesByReferencesTool",
+        "Narazaka/AvatarMenuCreaterForMA",
+        "Narazaka/AvatarParametersSaver",
+        "Narazaka/ManualBaker",
+        "Narazaka/CheckMissingScripts",
+        "Narazaka/MagicalDresserInventorySystemModularAvatarExtension",
+        "Narazaka/BreastPBAdjuster",
+        "Narazaka/TeleportSetter",
+        "Dreadrith/LimbControl",
+        "Dreadrith/SelectionHelper",
+        "Dreadrith/VRCSDKPlus"
     ],
     "packages":[
         {
