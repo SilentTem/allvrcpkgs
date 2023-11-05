@@ -16,7 +16,10 @@
     "githubRepos":[
         "esperecyan/VRMConverterForVRChat",
         "lilxyzw/lilToon",
-        "lilxyzw/lilAvatarUtils"
+        "lilxyzw/lilAvatarUtils",
+        "pimaker/animator-as-visual",
+        "pimaker/ltcgi",
+        "pimaker/av3-animator-as-code"
     ],
     "packages":[
         {
