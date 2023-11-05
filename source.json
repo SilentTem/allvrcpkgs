@@ -19,7 +19,9 @@
         "lilxyzw/lilAvatarUtils",
         "source:pimaker/animator-as-visual",
         "source:pimaker/ltcgi",
-        "source:pimaker/av3-animator-as-code"
+        "source:pimaker/av3-animator-as-code",
+        "bdunderscore/modular-avatar",
+        "CyanLaser/CyanTrigger"
     ],
     "packages":[
         {
