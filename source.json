@@ -21,7 +21,19 @@
         "source:pimaker/ltcgi",
         "source:pimaker/av3-animator-as-code",
         "bdunderscore/modular-avatar",
-        "CyanLaser/CyanTrigger"
+        "CyanLaser/CyanTrigger",
+        "vrctxl/AccessTXL",
+        "vrctxl/CommonTXL",
+        "vrctxl/MiscTXL",
+        "vrctxl/PlayerAudioTXL",
+        "vrctxl/VideoTXL",
+        "vrctxl/PortalTXL",
+        "Azukimochi/LightLimitChangerForMA",
+        "Azukimochi/BoneRenamer",
+        "Sayamame-Beans/KiseteNe-for-MA",
+        "poiyomi/PoiyomiToonShader",
+        "hfcRed/Animation-Repathing",
+        "VRCFury/VRCFury"
     ],
     "packages":[
         {
