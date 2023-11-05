@@ -15,7 +15,8 @@
     "bannerUrl":"banner.png",
     "githubRepos":[
         "esperecyan/VRMConverterForVRChat",
-        "lilxyzw/vpm-repos"
+        "lilxyzw/lilToon",
+        "lilxyzw/lilAvatarUtils"
     ],
     "packages":[
         {
