@@ -15,11 +15,7 @@
     "bannerUrl":"banner.png",
     "githubRepos":[
         "esperecyan/VRMConverterForVRChat",
-        "techanon/vrc-assets",
-        "lilxyzw/vpm-repos",
-        "pimaker/vpm-listing",
-        "orels1/orels-Unity-Shaders",
-        "Narazaka/vpm-repos"
+        "techanon/vrc-assets"
     ],
     "packages":[
         {
