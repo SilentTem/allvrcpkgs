@@ -21,6 +21,7 @@
         "source:pimaker/ltcgi",
         "source:pimaker/av3-animator-as-code",
         "bdunderscore/modular-avatar",
+        "bdunderscore/ndmf",
         "CyanLaser/CyanTrigger",
         "vrctxl/AccessTXL",
         "vrctxl/CommonTXL",
@@ -47,7 +48,17 @@
         "Narazaka/TeleportSetter",
         "Dreadrith/LimbControl",
         "Dreadrith/SelectionHelper",
-        "Dreadrith/VRCSDKPlus"
+        "Dreadrith/VRCSDKPlus",
+        "Thryrallo/VRC-Avatar-Performance-Tools",
+        "kurotu/VRCQuestTools",
+        "AoiKamishiro/AlterDresser",
+        "anatawa12/AvatarOptimizer",
+        "anatawa12/unity-gist-pack",
+        "anatawa12/CustomLocalization4EditorExtension",
+        "anatawa12/ContinuousAvatarUploader",
+        "anatawa12/VPMPackageAutoInstaller",
+        "anatawa12/AnimatorController-as-a-Code",
+        "anatawa12/HarmonyFix-for-Unity"
     ],
     "packages":[
         {
